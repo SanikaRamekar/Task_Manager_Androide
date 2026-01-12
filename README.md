@@ -32,8 +32,4 @@ A simple Task Management Android application with backend integration.
 - POST `/api/auth/login`
 - GET `/api/tasks`
 
-## Screenshots
-(Add screenshots here)
-
-
 -Sanika Ramekar
